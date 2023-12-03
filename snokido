@@ -1,0 +1,10 @@
+{
+  "name": "Snokido",
+  "desc": "Many games here surprisingly",
+  "url": "https://snokido.com",  
+  "encodedUrl": "yes",
+  "icon": "https://pbs.twimg.com/profile_images/3544727231/477c76a050df6f423c00e8a32177fc76_400x400.png"
+  "version": "1.0.0",
+  "author": "M_Dev",
+  "permissions": [none]
+}
